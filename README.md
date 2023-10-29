@@ -10,3 +10,5 @@ Instruction for Use:
 6. If the success is below 90%, an email is sent to the user titled "You should work more!!!"
 
 Used modules+frameworks : random,BeautifulSoup,email.mime,pandas,datetime,csv,smtplib
+
+Note : Very little of the code has been shared!!! 
