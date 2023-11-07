@@ -1,5 +1,5 @@
-# Desktop-Language-Learning-Software
-Desktop Language Learning Software has been developed for learning specific number of foreign language words(e.g.10000).   
+# Desktop-Language-Learning-Application
+Desktop Language Learning Application has been developed for learning specific number of foreign language words(e.g.10000).   
 
 Instruction for Use:
 1. User is asked how many words he/she wants to enter.
